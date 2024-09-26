@@ -5,7 +5,7 @@ sololearn-landing page project 1
 
 Landing pages are designed and written to be clear ,concise, and highly persuasive, so people take action
 ### tasks
-## 1.add a <h1> element with title of project
-## 2. add a <img> element related to the title
-## 3.add a <p> element with image description blow the image 
+## 1.add a "<h1>"element with title of project
+## 2. add a "<img>" element related to the title
+## 3.add a "<p>" element with image description blow the image 
 ## 4.add a cooment to explain your code 
