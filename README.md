@@ -9,3 +9,8 @@ Landing pages are designed and written to be clear ,concise, and highly persuasi
 ## 2. add a "image" element related to the title
 ## 3.add a "pragraph" element with image description blow the image 
 ## 4.add a cooment to explain your code 
+
+### solotion
+## part 1 = https://youtu.be/gc_796PrRV4?si=U9cMegM-Ebir2MP4
+## part 2 = https://youtu.be/59c2l1Ua_eY?si=0efMbYkAlsF1RFis
+## part 3 = https://youtu.be/208AVOl7fgE?si=eahCnAH0V-xbdI0b
