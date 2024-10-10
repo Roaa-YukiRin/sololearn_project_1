@@ -28,4 +28,7 @@ Let's make your page more professional by applying industry standards and best p
 ### solotion
 ## https://youtu.be/6Y_8MIti11g
 
+# Q3
+![task 3](https://github.com/user-attachments/assets/4256da0f-0ef7-4b5e-a159-bddf741ed266)
+
 م
