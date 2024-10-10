@@ -43,4 +43,11 @@ TEXT formating help website vistors find the information they are looking for
 # Q4
 ![task 4](https://github.com/user-attachments/assets/c5c8b46f-a9d6-46f5-9119-52967f9114e6)
 
-م
+A list of the key features not only makes your page more orgnized and visually appealing but it also highlights the benfits of your prodect
+
+### task
+## 1.Add a <b>list</b>  to your page with the maine product future. you can use an order list or undorder list 
+
+### solotion
+## part 1:https://youtu.be/FQPco0ofTF8
+## part 2: https://youtu.be/x1KJsODYKaw
