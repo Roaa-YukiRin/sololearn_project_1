@@ -31,4 +31,16 @@ Let's make your page more professional by applying industry standards and best p
 # Q3
 ![task 3](https://github.com/user-attachments/assets/4256da0f-0ef7-4b5e-a159-bddf741ed266)
 
+TEXT formating help website vistors find the information they are looking for
+
+### task 
+## 1.make your podect deacription out by adding blod, italic, and underlined text usinig "b","i","u"tags.
+
+### solotion
+## part 1 :https://youtu.be/-8vLikMO_KM
+## part 2 :https://youtu.be/scU8pNv2zlM
+
+# Q4
+![task 4](https://github.com/user-attachments/assets/c5c8b46f-a9d6-46f5-9119-52967f9114e6)
+
 م
